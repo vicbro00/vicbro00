@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vicbro@hotmail.no**
 
-- ⚡ Fun fact **The cat on my profile picture is a girl with a stache.**
+- ⚡ Fun fact **The cat on my profile picture is a girl cat with a stache.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
