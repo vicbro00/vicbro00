@@ -10,6 +10,9 @@ I am a Front End student at Noroff living in Bergen.
 
 Links:
 -- Twitter: https://x.com/Vic_Brown_
+
 -- Linkedin: https://www.linkedin.com/in/victoria-brown-2bb846176/
+
 -- Facebook: https://www.facebook.com/victorialouise.brown.7
+
 -- Youtube: https://www.youtube.com/@victoriabrown00
