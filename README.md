@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 My name is Victoria Brown!
+I am a Front End student at Noroff living in Bergen.
 
-<!--
-**vicbro00/vicbro00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I'm currently working on studying Front End Development at Noroff.
+- 🌱 I'm currently trying to learn more about Javascript, and master more of the language.
+- 💬 Ask me about anything you would like to know!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Links:
+-- Twitter: https://x.com/Vic_Brown_
+-- Linkedin: https://www.linkedin.com/in/victoria-brown-2bb846176/
+-- Facebook: https://www.facebook.com/victorialouise.brown.7
+-- Youtube: https://www.youtube.com/@victoriabrown00
