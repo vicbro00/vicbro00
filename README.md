@@ -4,9 +4,7 @@ I am a Front End student at Noroff living in Bergen.
 - 🔭 I'm currently working on studying Front End Development at Noroff.
 - 🌱 I'm currently trying to learn more about Javascript, and master more of the language.
 - 💬 Ask me about anything you would like to know!
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I played the saxophone for 4 years!
 
 How to reach me:
 
