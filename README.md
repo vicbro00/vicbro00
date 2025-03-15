@@ -8,11 +8,14 @@ I am a Front End student at Noroff living in Bergen.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Links:
--- Twitter: https://x.com/Vic_Brown_
+How to reach me:
 
--- Linkedin: https://www.linkedin.com/in/victoria-brown-2bb846176/
+Twitter: https://x.com/Vic_Brown_
 
--- Facebook: https://www.facebook.com/victorialouise.brown.7
+Linkedin: https://www.linkedin.com/in/victoria-brown-2bb846176/
 
--- Youtube: https://www.youtube.com/@victoriabrown00
+Facebook: https://www.facebook.com/victorialouise.brown.7
+
+Youtube: https://www.youtube.com/@victoriabrown00
+
+Email: vicbro@hotmail.no
