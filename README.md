@@ -1,10 +1,20 @@
 ## Hi there 👋 My name is Victoria Brown!
-I am a Front End student at Noroff living in Bergen.
+I am a Front End student at Noroff living in Ålesund.
 
-- 🔭 I'm currently working on studying Front End Development at Noroff.
-- 🌱 I'm currently trying to learn more about Javascript, and master more of the language.
-- 💬 Ask me about anything you would like to know!
-- ⚡ Fun fact: I played the saxophone for 4 years!
+Tech tools:
+- HTML and CSS
+- Javascript
+- React, Tailwind CSS and Bootstrap
+- GitHub, VS Code and Figma
+
+Some of my projects:
+- https://github.com/NoroffFEU/FED1-PE1-vicbro00
+- https://github.com/vicbro00/Exam-Project-2
+- https://github.com/vicbro00/Javascript-1
+
+Fun facts:
+- I played the saxophone for 4 years!
+- My favourite football team is Tottenham Hotspurs.
 
 How to reach me:
 
