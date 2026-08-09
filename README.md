@@ -1,5 +1,12 @@
 ## Hi there 👋 My name is Victoria Brown!
-I am a Front End student at Noroff living in Ålesund.
+I am a junior programmer trying to learn the coding world.
+Currently I have two years of front end programming under my belt, and am starting a back end course soon.
+The languages I really want to be great at are:
+- HTML and CSS
+- Javascript and TypeScript
+- React
+- Python
+As well as confidence in Azure and SQL.
 
 Tech tools:
 - HTML and CSS
