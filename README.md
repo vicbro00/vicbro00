@@ -5,8 +5,8 @@ The languages I really want to be great at are:
 - HTML and CSS
 - Javascript and TypeScript
 - React
-- Python
-As well as confidence in Azure and SQL.
+- C#
+As well as confidence in Azure.
 
 Tech tools:
 - HTML and CSS
